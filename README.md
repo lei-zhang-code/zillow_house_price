@@ -1,1 +1,4 @@
-# zillow_house_price
+# Predict Zillow house price
+
+source activate tensorflow
+
